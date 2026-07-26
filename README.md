@@ -18,7 +18,7 @@
 
 my work sits at the crossroads of offensive security, agentic ai, and automation-first systems design.
 
-- **currently researching:** working on a project 'CLOAK: Cryptographic Logical Oblivious AcKnowledgments' to help control RTT-informed recon/attacks on IM read receipts<br/>
+- **currently researching:** looking into post quantum cryptography for federated learning<br/>
 - **aspiring:** ph.d. in cybersecurity & ai systems<br/>
 - **philosophy:** ai for security + security for ai
 
