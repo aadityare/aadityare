@@ -17,11 +17,11 @@
 
 ## what i'm building
 
-three research lanes, all on systems the world runs on but doesn't audit.
+researching systems the world runs on but doesn't tend to audit
 
-- **aviation security** · avionic protocols, broadcast integrity, incident forensics on gnss and ads-b events.
-- **global supply chain security** · provenance for semiconductors and software, and policies.
-- **post-quantum cryptography** · developing a new signature scheme targeting nist's additional signatures on-ramp — see [**eidolon**](https://github.com/aadityare/eidolon).
+- **aviation security** · avionic protocols, broadcast integrity, incident forensics on gnss and ads-b events
+- **global supply chain security** · provenance for semiconductors and software, and policies
+- **post-quantum cryptography** · developing a new signature scheme targeting nist's additional signatures on-ramp
 
 ---
 
