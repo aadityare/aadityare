@@ -4,8 +4,7 @@
 
 <div align="center">
   
-### ms cybersecurity @ nyu · "ci" security researcher*
-<sup>*critical infrastructure</sup>
+### ms cybersecurity @ nyu · critical infrastructure
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadityare.com-FF5500?style=for-the-badge&logo=safari&logoColor=white)](https://aadityare.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1157-059X)
