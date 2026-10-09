@@ -4,11 +4,13 @@
 
 <div align="center">
   
-### ms cybersecurity @ nyu · agentic ai · defensive security
+### ms cybersecurity @ nyu · "ci" security researcher*
+<sup>*critical infrastructure</sup>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aadi.zip-FF5500?style=for-the-badge&logo=safari&logoColor=white)](https://aadi.zip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aadityare.com-FF5500?style=for-the-badge&logo=safari&logoColor=white)](https://aadityare.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-1157-059X)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=JtOdgDUAAAAJ)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/author/836382877804723)
 
 </div>
 
@@ -16,11 +18,11 @@
 
 ## what i'm building
 
-my work sits at the crossroads of offensive security, agentic ai, and automation-first systems design.
+three research lanes, all on systems the world runs on but doesn't audit.
 
-- **currently researching:** looking into post quantum cryptography for federated learning<br/>
-- **aspiring:** ph.d. in cybersecurity & ai systems<br/>
-- **philosophy:** ai for security + security for ai
+- **aviation security** · avionic protocols, broadcast integrity, incident forensics on gnss and ads-b events.
+- **global supply chain security** · provenance for semiconductors and software, and policies.
+- **post-quantum cryptography** · developing a new signature scheme targeting nist's additional signatures on-ramp — see [**eidolon**](https://github.com/aadityare/eidolon).
 
 ---
 
@@ -72,18 +74,6 @@ my work sits at the crossroads of offensive security, agentic ai, and automation
 
 ---
 
-## beyond the terminal (out of the box, get it?)
-
-when not breaking or building systems, you'll find me:
-
-- **reading:** existential dread, on [literal.club](https://literal.club/epiphany) 
-- **listening to:** radiohead, tame impala, aaryan shah, the weeknd, taylor swift, on [apple music](https://music.apple.com/profile/prettyboyaadi)
-- **watching:** cinematic depth and artful storytelling, on [letterboxd](https://letterboxd.com/prettyboiiii)  
-
-> *"exploring security & ai on one front. trying to find the meaning of life on another."*
-
----
-
 ## 📫 connect with me
 
 i love connecting with different people. you could talk research, collaborate on projects, or just say hi!
@@ -91,8 +81,8 @@ i love connecting with different people. you could talk research, collaborate on
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadityarengarajan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://x.aadi.zip/zuck)
-[![Email](https://img.shields.io/badge/Email_NYU-8B1538?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditya.r@nyu.edu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prettyboyaaditya)
+[![Email](https://img.shields.io/badge/Email-8B1538?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaditya.r@nyu.edu)
 
 </div>
 
@@ -100,6 +90,6 @@ i love connecting with different people. you could talk research, collaborate on
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://www.aadi.zip/Aaditya_ATS_Resume.pdf" download>Download my resume</a>
+> <a href="https://www.aadityare.com/Aaditya_ATS_Resume.pdf" download>Download my resume</a>
 
 </div>
